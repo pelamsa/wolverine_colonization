@@ -1,5 +1,6 @@
-# wolverine_colonization
-R scripts associated with the manuscript titled "*Wolverines on the move: a multi-scale analysis of forest and landscape factors driving colonization patterns in Finland*".
+This repository contains R scripts associated with the manuscript titled "*Wolverines on the move: a multi-scale analysis of forest and landscape factors driving wolverine occurrence changes in Finland*".
+
+**scripts/analysis:** Scripts for the analysis.
 
 **scripts/environmental_variables:** Scripts for calculating environmental variables (forest and landscape structure).
 
